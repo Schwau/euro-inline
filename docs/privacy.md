@@ -1,3 +1,7 @@
+---
+permalink: /privacy/
+---
+
 # Datenschutzerklärung - Euro Inline
 
 Euro Inline verarbeitet sichtbare Webseiteninhalte lokal im Browser, um Währungsbeträge zu erkennen und umgerechnete Preise direkt auf der Webseite anzuzeigen.
