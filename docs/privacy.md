@@ -4,6 +4,8 @@ permalink: /privacy/
 
 # Datenschutzerklärung - Euro Inline
 
+**Deutsch** | [English](/euro-inline/privacy/en/) | [Français](/euro-inline/privacy/fr/) | [Español](/euro-inline/privacy/es/) | [日本語](/euro-inline/privacy/ja/)
+
 Euro Inline verarbeitet sichtbare Webseiteninhalte lokal im Browser, um Währungsbeträge zu erkennen und umgerechnete Preise direkt auf der Webseite anzuzeigen.
 
 Webseiteninhalte, Produktnamen und Preise werden nicht an den Entwickler übertragen oder dauerhaft gespeichert. Euro Inline erfasst keinen Browserverlauf und keine personenbezogenen Informationen.
